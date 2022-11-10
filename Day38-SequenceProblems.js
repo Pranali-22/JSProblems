@@ -32,6 +32,8 @@ let average = sum/TOTAL_NUMBER
 console.log("Sum : "+sum+" Average: "+average)
 
 
+
+
 // 5. Use Script & Debug – Unit Conversion
 // a. 1ft = 12 in then 42 in = ? ft
 const FEET_TO_INCH = 12
