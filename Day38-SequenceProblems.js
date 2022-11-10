@@ -2,6 +2,7 @@
 
 console.log("Single digit number : "+Math.floor(Math.random() * 10))
 
+
 // 2. Use REPL – Use Random to get Dice Number between 1 to 6
 function getDice(){
     let diceNum = (Math.floor(Math.random() * 10)%6) + 1
